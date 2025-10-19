@@ -1,8 +1,11 @@
 <!-- 👋 Hi there section -->
 <h1 align="center">👋 สวัสดีครับ ผมชื่อ POOM Panuwat</h1>
 <h3 align="center">.NET & Blazor Developer | Neo4j | ESG Low Carbon | CMCar System</h3>
----
-![Profile views](https://komarev.com/ghpvc/?username=ahpoom&color=brightgreen)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahpoom&color=brightgreen&style=for-the-badge" alt="Profile views" />
+</p>
+
 
 
 ### 💡 เกี่ยวกับผม
