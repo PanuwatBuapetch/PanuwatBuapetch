@@ -27,8 +27,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white alt="PHP" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
+
 
 #### **Database**
 <p align="center">
@@ -59,7 +60,8 @@
 
 ผมกำลังขยายขอบเขตความสามารถในการพัฒนาของตัวเอง โดยให้ความสนใจและฝึกฝนเครื่องมือเหล่านี้เป็นพิเศษ:
 * **Python:** กำลังฝึกเขียนและเรียนรู้การใช้งานภาษา Python เพื่อขยายขีดความสามารถไปสู่ด้าน Data Science หรือ Scripting ต่างๆ
-
+* **PHP:** กำลังฝึกเขียนและเรียนรู้ใช้งาน PHP เพื่อขยายขีดความสามารถ
+ 
 ---
 
 ### 📂 โครงการเด่น (Featured Projects)
