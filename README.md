@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <img src="[https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white/>
 </p>
 
 #### **Database**
