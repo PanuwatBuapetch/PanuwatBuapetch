@@ -1,4 +1,5 @@
 <h1 align="center">Panuwat Buapetch | .NET & Blazor Developer</h1>
+<h3 align="center">สวัสดีครับผมชื่อนายภานุวัฒน์ บัวเพชร จบมาจาก มหาวิทยาลัยสงขลานคริทร์ คณะวิทยาศาสตร์ สาขาเทคโนโลยีสารสนเทศ(ต่อเนื่อง)</h3>
 <h3 align="center">Graph Database (Neo4j) | PostgreSQL | ASP.NET Core</h3>
 
 <p align="center">
