@@ -92,6 +92,12 @@
 * **รายละเอียด:** ระบบจัดการข้อมูลทรัพยากรบุคคลสำหรับนักศึกษา (กำลังพัฒนาเพื่อเพิ่มทักษะด้าน Blazor)
 * **เทคโนโลยี:** Blazor, .NET 8, PostgreSQL
 * > [GitHub Repository](https://github.com/PanuwatBuapetch/StudentHRMS/)
+  > 
+#### **3. StudentManagementSystem - Student Human Resources Management System**
+* **บทบาท:** นักพัฒนา
+* **รายละเอียด:** ระบบจัดการข้อมูลทรัพยากรบุคคลสำหรับนักศึกษา (พัฒนาการ Blazor Fullstack)
+* **เทคโนโลยี:** Blazor, .NET 9, PostgreSQL
+* > [GitHub Repository](https://github.com/PanuwatBuapetch/StudentManagementSystem/)
 
 ---
 
