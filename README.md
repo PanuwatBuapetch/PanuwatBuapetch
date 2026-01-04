@@ -153,23 +153,12 @@ high-quality, maintainable systems that support real-world organizational needs.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
+  <img src="https://metrics.lecoq.io/PanuwatBuapetch?template=classic&languages=1&isocalendar=1&theme=dark" />
 </p>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PanuwatBuapetch&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
