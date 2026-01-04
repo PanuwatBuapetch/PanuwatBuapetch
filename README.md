@@ -109,8 +109,8 @@
 เพื่อแสดงกิจกรรมและความสนใจในการใช้ภาษาต่าง ๆ
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panuwatbuapetch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panuwatbuapetch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
