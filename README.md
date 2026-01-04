@@ -1,156 +1,188 @@
-<h1 align="center">Panuwat Buapetch</h1>
-<h3 align="center">.NET & Blazor Developer | Fullstack (Nuxt.js)</h3>
+<!-- ================= HEADER ================= -->
+<div align="center">
 
-<p align="center">
-  นักพัฒนาซอฟต์แวร์สาย .NET มีประสบการณ์พัฒนาระบบระดับองค์กรในมหาวิทยาลัย  
-  เชี่ยวชาญ ASP.NET Core, Blazor และการออกแบบระบบฐานข้อมูล  
+<h1 style="
+  font-size: 3rem;
+  background: linear-gradient(90deg, #4f46e5, #06b6d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: fadeIn 1.5s ease-in-out;
+">
+  Panuwat Buapetch
+</h1>
+
+<h3 style="
+  color: #94a3b8;
+  margin-top: -10px;
+  animation: fadeIn 2s ease-in-out;
+">
+  .NET & Blazor Developer | Fullstack (Nuxt.js)
+</h3>
+
+<p style="
+  max-width: 720px;
+  line-height: 1.7;
+  color: #cbd5f5;
+  animation: fadeUp 2.2s ease-in-out;
+">
+  นักพัฒนาซอฟต์แวร์สาย .NET มีประสบการณ์พัฒนาระบบระดับองค์กรในมหาวิทยาลัย<br/>
+  เชี่ยวชาญ ASP.NET Core, Blazor และการออกแบบระบบฐานข้อมูล<br/>
   ปัจจุบันขยายความสามารถสู่ Fullstack ด้วย Nuxt.js และ Modern Web Technologies
 </p>
 
-<p align="center">
+<p style="margin-top: 20px;">
   <a href="mailto:poompoom11234567@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/panuwat-buapetch-95831a285">LinkedIn</a> •
   <a href="https://github.com/PanuwatBuapetch">GitHub</a>
 </p>
 
----
+</div>
 
-## 👨‍💻 Profile Summary
+<hr/>
 
-นักพัฒนา **.NET / Blazor** มีประสบการณ์ทำงานด้านระบบสารสนเทศใน  
-**มหาวิทยาลัยสงขลานครินทร์ (Prince of Songkla University)**  
-มีความถนัดในการพัฒนา **ระบบเอกสาร, ระบบบริหารจัดการ, RESTful API และฐานข้อมูล**
+<!-- ================= PROFILE ================= -->
+<h2>👨‍💻 Profile Summary</h2>
 
-จุดเด่น:
-- ออกแบบและพัฒนาระบบจริงที่ใช้งานในองค์กร
-- เข้าใจการทำงานของระบบงานราชการ / มหาวิทยาลัย
-- สามารถพัฒนาได้ทั้ง Backend และ Frontend
-- มีความรับผิดชอบ เรียนรู้เร็ว และทำงานเป็นทีมได้ดี
+<div style="
+  border-left: 4px solid #6366f1;
+  padding-left: 16px;
+  animation: fadeUp 1.5s ease-in-out;
+">
 
----
+นักพัฒนา <b>.NET / Blazor</b> มีประสบการณ์ทำงานด้านระบบสารสนเทศใน  
+<b>มหาวิทยาลัยสงขลานครินทร์ (Prince of Songkla University)</b>  
+มีความถนัดในการพัฒนา <b>ระบบเอกสาร, ระบบบริหารจัดการ, RESTful API และฐานข้อมูล</b>
 
-## 🛠️ Technical Skills
+</div>
 
-### Backend & Framework
-- **ASP.NET Core**, **Blazor Server / WebAssembly**
-- RESTful API, Swagger, HttpClient
-- C#, .NET 6 / 8 / 9
-- Node.js (พื้นฐาน)
+<ul>
+  <li>ออกแบบและพัฒนาระบบจริงที่ใช้งานในองค์กร</li>
+  <li>เข้าใจการทำงานของระบบงานราชการ / มหาวิทยาลัย</li>
+  <li>สามารถพัฒนาได้ทั้ง Backend และ Frontend</li>
+  <li>มีความรับผิดชอบ เรียนรู้เร็ว และทำงานเป็นทีมได้ดี</li>
+</ul>
 
-### Frontend
-- **Nuxt.js 3**, Vue.js
-- JavaScript / TypeScript (พื้นฐาน)
-- Tailwind CSS
-- React (พื้นฐาน)
+<hr/>
 
-### Database
-- **PostgreSQL**
-- **Neo4j (Graph Database)**
-- MySQL
+<!-- ================= SKILLS ================= -->
+<h2>🛠️ Technical Skills</h2>
 
-### Tools & Environment
-- Visual Studio, VS Code
-- Git / GitHub
-- Postman
-- Figma
-- Windows
+<table>
+<tr>
+<td width="50%">
 
----
+<b>Backend & Framework</b>
 
-## 🏢 Professional Experience
+- ASP.NET Core  
+- Blazor Server / WebAssembly  
+- RESTful API, Swagger  
+- C#, .NET 6 / 8 / 9  
 
-### 🏛 Prince of Songkla University  
-**ตำแหน่ง:** นักวิชาการคอมพิวเตอร์ / Software Developer  
-**ลักษณะงาน:** พัฒนาระบบสารสนเทศภายในองค์กร
+</td>
+<td width="50%">
 
-#### 🔹 EDOC – Official Document Number Generation System
-- พัฒนาระบบออกเลขหนังสือราชการอิเล็กทรอนิกส์
-- พัฒนาระบบ **TDX** สำหรับส่งเอกสารระหว่างมหาวิทยาลัย 3 แห่ง
-- ออกแบบโครงสร้างข้อมูลและ Logic การไหลของเอกสาร
-- ทำงานร่วมกับทีมงานภายในมหาวิทยาลัย
+<b>Frontend</b>
 
-**Technologies:**
-- Blazor
-- ASP.NET Core API
-- .NET 6
-- **Neo4j (Graph Database)**
+- Nuxt.js 3, Vue.js  
+- JavaScript / TypeScript  
+- Tailwind CSS  
+- React (พื้นฐาน)  
 
-> *หมายเหตุ: โครงการเป็นทรัพย์สินของมหาวิทยาลัย ไม่สามารถเปิดเผย Source Code สาธารณะได้*
+</td>
+</tr>
+</table>
 
----
+<b>Database</b>  
+PostgreSQL • Neo4j • MySQL
 
-## 📂 Personal Projects
+<b>Tools</b>  
+Visual Studio • VS Code • Git • Postman • Figma • Windows
 
-### 🔹 HRMS PRO (Nuxt Edition)
-**Role:** Fullstack Developer  
+<hr/>
 
-ระบบบริหารจัดการทรัพยากรบุคคล:
-- Attendance (ลงเวลา)
-- Dashboard วิเคราะห์ข้อมูล
-- Payroll และออกสลิปเงินเดือน (PDF)
+<!-- ================= EXPERIENCE ================= -->
+<h2>🏢 Professional Experience</h2>
 
-**Tech Stack:**
-- Nuxt.js 3
-- Vue.js
-- Tailwind CSS
-- Prisma ORM
-- MySQL
+<h3>🏛 Prince of Songkla University</h3>
+<b>ตำแหน่ง:</b> นักวิชาการคอมพิวเตอร์ / Software Developer  
 
-🔗 GitHub:  
-https://github.com/PanuwatBuapetch/hrms-nuxt-project
+<div style="
+  background: rgba(99,102,241,0.1);
+  padding: 16px;
+  border-radius: 12px;
+">
 
----
+<b>EDOC – Official Document Number Generation System</b>
 
-### 🔹 HRMS – Human Resources Management System (.NET)
-**Role:** Software Developer Trainee  
+- พัฒนาระบบออกเลขหนังสือราชการอิเล็กทรอนิกส์  
+- พัฒนาระบบ <b>TDX</b> ส่งเอกสารระหว่างมหาวิทยาลัย 3 แห่ง  
+- ออกแบบโครงสร้างข้อมูลและ Logic การไหลของเอกสาร  
+- ทำงานร่วมกับทีมงานภายในมหาวิทยาลัย  
 
-ระบบจัดการข้อมูลบุคลากร:
-- นักศึกษาสหกิจ
-- ผู้บริหาร
-- โครงสร้างองค์กร
+<b>Technologies:</b>  
+Blazor • ASP.NET Core API • .NET 6 • Neo4j
 
-**Tech Stack:**
-- Blazor
-- .NET 8
-- PostgreSQL
+</div>
 
-🔗 GitHub:  
-https://github.com/panuwatbuapetch/HRMSProject
+<sub>*โครงการเป็นทรัพย์สินของมหาวิทยาลัย ไม่สามารถเปิดเผย Source Code สาธารณะได้*</sub>
 
----
+<hr/>
 
-### 🔹 Student Management System
-ระบบจัดการข้อมูลนักศึกษา (Blazor Fullstack)
+<!-- ================= PROJECTS ================= -->
+<h2>📂 Personal Projects</h2>
 
-**Tech Stack:**
-- Blazor
-- .NET 9
-- PostgreSQL
+<h3>🚀 HRMS PRO (Nuxt Edition)</h3>
 
-🔗 GitHub:  
-https://github.com/PanuwatBuapetch/StudentManagementSystem
+<b>Role:</b> Fullstack Developer  
+
+- Attendance / Dashboard  
+- Payroll + PDF Payslip  
+
+<b>Tech:</b> Nuxt.js 3 • Vue.js • Tailwind • Prisma • MySQL  
+🔗 https://github.com/PanuwatBuapetch/hrms-nuxt-project
 
 ---
 
-## 🌱 Learning & Development
+<h3>🧩 HRMS (.NET)</h3>
 
-- Nuxt.js & Vue.js (Fullstack / SSR)
-- Modern Web Architecture
-- Python (Scripting / Data Processing)
-- Software Design & Clean Code
+<b>Role:</b> Software Developer Trainee  
+
+<b>Tech:</b> Blazor • .NET 8 • PostgreSQL  
+🔗 https://github.com/panuwatbuapetch/HRMSProject
 
 ---
 
-## 🎯 Career Objective
+<h3>🎓 Student Management System</h3>
 
-มุ่งพัฒนาตนเองเป็น **Software Developer / Fullstack Developer**  
-ที่สามารถสร้างระบบสารสนเทศที่:
+<b>Tech:</b> Blazor • .NET 9 • PostgreSQL  
+🔗 https://github.com/PanuwatBuapetch/StudentManagementSystem
+
+<hr/>
+
+<!-- ================= OBJECTIVE ================= -->
+<h2>🎯 Career Objective</h2>
+
+พัฒนาตนเองเป็น <b>Software Developer / Fullstack Developer</b>  
+ที่สามารถสร้างระบบที่:
 - มีคุณภาพ
 - ดูแลรักษาง่าย
-- สนับสนุนการทำงานขององค์กรได้อย่างยั่งยืน
+- สนับสนุนการทำงานขององค์กรอย่างยั่งยืน
 
 ---
 
-<h4 align="center">
-"Code with Conscience – พัฒนาระบบด้วยความรับผิดชอบต่อสังคมและองค์กร"
-</h4>
+<div align="center" style="margin-top: 40px; color: #94a3b8;">
+🌱 <i>Code with Conscience – พัฒนาระบบด้วยความรับผิดชอบต่อสังคมและองค์กร</i>
+</div>
+
+<!-- ================= ANIMATION ================= -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
