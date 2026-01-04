@@ -121,7 +121,7 @@
 
 <p align="center">
   <a href="mailto:poompoom11234567@gmail.com"><img src="https://img.shields.io/badge/Email-poompoom11234567@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ภานุวัฒน์-บัวเพชร-ahpoom-aiya-95831a285"><img src="https://img.shields.io/badge/LinkedIn-ภานุวัฒน์-บัวเพชร-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/panuwat-buapetch-95831a285"><img src="https://img.shields.io/badge/panuwat-buapetch-95831a285-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/PanuwatBuapetch"><img src="https://img.shields.io/badge/GitHub-Panuwat Buapetch-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
