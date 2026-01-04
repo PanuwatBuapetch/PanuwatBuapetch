@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=34&duration=3000&pause=600&color=4F46E5&center=true&vCenter=true&width=700&lines=Panuwat+Buapetch;.NET+%26+Blazor+Developer;Fullstack+Developer+(Nuxt.js)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=34&duration=3000&pause=600&color=4F46E5&center=true&vCenter=true&width=700&lines=Panuwat+Buapetch;.NET+%26+Blazor+Developer;" />
 </h1>
 
 <p align="center">
