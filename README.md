@@ -1,5 +1,5 @@
 <h1 align="center">Panuwat Buapetch</h1>
-<h3 align="center">.NET & Blazor Developer</h3>
+<h3 align="center">.NET & Blazor Developer | Fullstack (Nuxt.js)</h3>
 
 <p align="center">
   นักพัฒนาซอฟต์แวร์สาย .NET มีประสบการณ์พัฒนาระบบระดับองค์กรในมหาวิทยาลัย  
@@ -115,4 +115,42 @@ https://github.com/PanuwatBuapetch/hrms-nuxt-project
 - PostgreSQL
 
 🔗 GitHub:  
-https://github.c
+https://github.com/panuwatbuapetch/HRMSProject
+
+---
+
+### 🔹 Student Management System
+ระบบจัดการข้อมูลนักศึกษา (Blazor Fullstack)
+
+**Tech Stack:**
+- Blazor
+- .NET 9
+- PostgreSQL
+
+🔗 GitHub:  
+https://github.com/PanuwatBuapetch/StudentManagementSystem
+
+---
+
+## 🌱 Learning & Development
+
+- Nuxt.js & Vue.js (Fullstack / SSR)
+- Modern Web Architecture
+- Python (Scripting / Data Processing)
+- Software Design & Clean Code
+
+---
+
+## 🎯 Career Objective
+
+มุ่งพัฒนาตนเองเป็น **Software Developer / Fullstack Developer**  
+ที่สามารถสร้างระบบสารสนเทศที่:
+- มีคุณภาพ
+- ดูแลรักษาง่าย
+- สนับสนุนการทำงานขององค์กรได้อย่างยั่งยืน
+
+---
+
+<h4 align="center">
+"Code with Conscience – พัฒนาระบบด้วยความรับผิดชอบต่อสังคมและองค์กร"
+</h4>
