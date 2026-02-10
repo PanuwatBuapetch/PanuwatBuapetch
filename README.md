@@ -127,6 +127,14 @@ the stability of **.NET Enterprise** and the performance of **Modern Web (Go/Nex
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/PanuwatBuapetch?template=classic&languages=1&isocalendar=1&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanuwatBuapetch&theme=radical" alt="streak graph" />
+</div>
