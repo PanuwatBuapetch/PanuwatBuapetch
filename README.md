@@ -128,13 +128,11 @@ the stability of **.NET Enterprise** and the performance of **Modern Web (Go/Nex
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
 
-<br/>
+[![Panuwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanuwatBuapetch&theme=radical" alt="streak graph" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanuwatBuapetch&theme=radical)](https://git.io/streak-stats)
+
 </div>
