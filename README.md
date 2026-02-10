@@ -134,9 +134,9 @@
 
 <div align="center">
 
-[![Panuwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=radical&cache_seconds=1800)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=radical&cache_seconds=1800)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanuwatBuapetch&theme=radical)](https://git.io/streak-stats)
 
