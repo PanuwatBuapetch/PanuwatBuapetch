@@ -62,6 +62,7 @@ Strong background in:
   <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <imge src="https://img.shiedls.io/badge/Next.js/>
 </p>
 
 - JavaScript / TypeScript (Basic)
