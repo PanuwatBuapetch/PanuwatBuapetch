@@ -73,7 +73,7 @@ I bridge the gap between robust enterprise logic (.NET/C#) and modern, high-spee
 
 ## 🚀 Featured Projects
 
-### 🛒 [Poom Store - Full Stack E-commerce](https://github.com/PanuwatBuapetch/fullstack-ecommerce-go-nextjs)
+### 🛒 [E-commerce System - Full Stack E-commerce](https://github.com/PanuwatBuapetch/E-commerce-project)
 **Tech Stack:** Go (Gin) • Next.js • MySQL (Native SQL) • Zustand
 > A high-performance e-commerce platform focusing on raw speed and control.
 - **Backend:** Built with **Go** using **Native SQL Drivers** (no ORM) for precise query optimization and type handling.
