@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>ผู้พัฒนา .NET และ Fullstack Developer สาย Modern Web</b>
+  <b>ผู้พัฒนา .NET และ Fullstack Developer</b>
 </p>
 
 <p align="center">
@@ -130,14 +130,3 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanuwatBuapetch&show_icons=true&theme=radical&cache_seconds=1800)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanuwatBuapetch&layout=compact&theme=radical&cache_seconds=1800)]
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanuwatBuapetch&theme=radical)](https://git.io/streak-stats)
-
-</div>
