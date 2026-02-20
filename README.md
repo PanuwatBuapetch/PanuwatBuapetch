@@ -1,15 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=34&duration=3000&pause=600&color=4F46E5&center=true&vCenter=true&width=700&lines=Panuwat+Buapetch;Backend+Focused+Developer+(.NET+%2F+Go+%2F+PostgreSQL);" alt="Typing SVG" />
-  </a>
-</h1>
 
 <p align="center">
   <b>🚀 Backend Developer ที่เชี่ยวชาญการออกแบบสถาปัตยกรรมระบบ HR & Enterprise</b>
 </p>
 
 <p align="center">
-  นักพัฒนาที่เน้นการสร้าง <b>Robust Backend Systems (.NET 8 / Go / PostgreSQL)</b><br/>
+  นักพัฒนาที่เน้นการสร้าง <b>Backend Systems (.NET 8 / Go / PostgreSQL)</b><br/>
   เชี่ยวชาญการออกแบบฐานข้อมูลที่ซับซ้อน, ระบบความปลอดภัย (RBAC) และ Middleware สำหรับองค์กร<br/>
   มีความสามารถในการสร้าง UI ด้วย <b>Blazor</b> และ <b>Next.js</b> เพื่อเชื่อมต่อกับ API ได้อย่างไร้รอยต่อ
 </p>
