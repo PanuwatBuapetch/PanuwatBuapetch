@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>🚀 Backend Developer ผู้เชี่ยวชาญการสร้าง RESTful API และระบบ Enterprise</b>
+  <b>🚀 Backend Developer สร้าง RESTful API และระบบ Enterprise</b>
 </p>
 
 <p align="center">
