@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  นักพัฒนาซอฟต์แวร์ที่มีประสบการณ์ออกแบบ <b>Enterprise Systems (.NET / ASP.NET Core API)</b><br/>
-  เชี่ยวชาญการจัดการข้อมูลที่ซับซ้อนด้วย <b>PostgreSQL</b> และ <b>Graph Database (Neo4j)</b><br/>
-  เน้นการเขียนโค้ดที่ Optimize และระบบที่มีความปลอดภัยสูง
+  นักพัฒนาซอฟต์แวร์ที่มีประสบการณ์ออกแบบ (.NET / ASP.NET Core API)</b><br/>
 </p>
 
 <p align="center">
